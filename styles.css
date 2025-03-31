@@ -176,9 +176,6 @@
     height: 100%;
 }
 
-.feature-card:hover {
-    transform: scale(1.05);
-}
 
 .feature-card img {
     width: 70px; /* Increased size */
